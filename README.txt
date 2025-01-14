@@ -8,4 +8,4 @@ Cabe aclarar que este proyecto NO TIENE base de datos es el puro esqueleto en HT
 
 ADVERTENCIA
 
-Si en cuyo caso se llega a usar este codigo es fundamental verificar cada path o link de cada archivo por si por alguna razon llega a aver un error.
+Si en cuyo caso se llega a usar este codigo es fundamental verificar cada path o link de cada archivo por si por alguna razon llega a haber un error.
